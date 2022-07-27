@@ -3,6 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import fahrrad from "../../Assets/Projects/fahrrad.jpg";
+import architrap from "../../Assets/Projects/architrap.JPG";
+import goalkeeper from "../../Assets/Projects/goalkeeper.JPG";
 
 function Projects() {
   return (
@@ -20,28 +22,30 @@ function Projects() {
             <ProjectCard
               imgPath={fahrrad}
               title="Fahrrad Market"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              description="Application to be able to publish and search for bikes. my first application using react, Mongo DB, and Node.js. It has: User log in, My profile, Like buttons, filters, search bar, etc."
+              ghLink="https://github.com/matigobbi/fahrradmarket"
+              demoLink="https://fahrradmarket.herokuapp.com/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               title="Architrap"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              imgPath={architrap}
+              description="website for architects immersed in the job market to leave reviews about their former employers and share comments."
+              ghLink="https://github.com/tkyngw/architrap"
+              demoLink="http://architrap.herokuapp.com/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               isBlog={false}
+              imgPath={goalkeeper}
               title="The goalkeeper || Game"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              description="Soccer penalty game, which has a history behind it. Javascript, canva, p5 are the resources used to build it."
+              ghLink="https://github.com/matigobbi/my-Futgame"
+              demoLink="https://matigobbi.github.io/my-Futgame/index1.html"              
             />
           </Col>
 
