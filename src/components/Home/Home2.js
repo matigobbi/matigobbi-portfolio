@@ -15,22 +15,24 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF 
+             <span className="purple"> INTRODUCING </span> MYSELF 
             </h1>
             <p className="home-about-body">
-              From argentina based in Berlin. In my freetime: Outdoor lover. Degree in <b className="purple">Tourism and Hotelery.</b>
+              From argentina based in Berlin ✨. Degree in <b className="purple">Tourism and Hotelery.</b>
               <br />
               <br />
-              I was bored and decided to look for new challenges, now learning everything about <b className="purple"> Javascript, React, Node.js and others</b>
+              Working for Ironhack Berlin, as <b className="purple"> Teacher Assistant </b>on Web Development Class. Helping usually about <b className="purple">15 students </b>
+              who are doing a course of intensive 10 weeks .
               <br />
               <br />
-              Interested in finding a company that will allow me to
-              <i>
-                <b className="purple"> develop their product </b> and provide me with feedback and{" "}
-                <b className="purple">
-                knowledge.
-                </b>
-              </i>
+              In my freetime: Outdoor lover. 
+              <br />
+              <br />
+              I decided to look for a new challenge, become a <b className="purple">Web Developer</b> specalized in JS. Now learning everything about <b className="purple"> React, Node.js, MongoDb,</b> and others
+              <br />
+              <br />
+              Interested in new technologies, like
+              <b className="purple"> TypeScript , Angular, Vue.js </b>
               <br />
             </p>
           </Col>

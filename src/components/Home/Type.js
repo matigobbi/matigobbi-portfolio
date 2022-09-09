@@ -6,14 +6,15 @@ function Type() {
     <Typewriter
       options={{
         strings: [
+          "Teacher Assistant from Ironhack",
+          "Ironhack WebDev",
           "Full stack Developer",
           "Front-end Developer",
-          "Deep Learning",
-          "Ironhack Student",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 80,
+        deleteSpeed: 20,
+        
       }}
     />
   );

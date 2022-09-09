@@ -16,18 +16,18 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImArrowRight2 /> Playing Computer Games
+              <ImArrowRight2 /> Play Computer Games
             </li>
             <li className="about-activity">
-              <ImArrowRight2 /> Biking
+              <ImArrowRight2 /> Bike, bike, bike
             </li>
             <li className="about-activity">
-              <ImArrowRight2 /> Enjoy outdoor life
+              <ImArrowRight2 /> Inline Skate
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "You can build things easily. I'll give you a hint Click on the wallpaper to create."{" "}
+            "You can build things easily. I'll give you a hint: Click on the wallpaper to create."{" "}
           </p>
         </blockquote>
     </Card>
