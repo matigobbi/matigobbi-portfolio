@@ -20,19 +20,17 @@ function Home2() {
             <p className="home-about-body">
               From argentina based in Berlin ✨. Degree in <b className="purple">Tourism and Hotelery.</b>
               <br />
-              <br />
-              Working for Ironhack Berlin, as <b className="purple"> Teacher Assistant </b>on Web Development Class. Helping usually about <b className="purple">15 students </b>
-              who are doing a course of intensive 10 weeks .
+              I decided to look for a new challenge, become a <b className="purple">Web Developer</b> specalized in JS. Now learning everything about <b className="purple"> React, Node.js, MongoDb,</b> and others.
               <br />
               <br />
-              In my freetime: Outdoor lover. 
+              Working for Ironhack Campus in Berlin, as <b className="purple"> Teacher Assistant </b> on Web Development Class. Helping about <b className="purple">15 students </b>
+              who are doing a course of fulltime 10 weeks .
               <br />
               <br />
-              I decided to look for a new challenge, become a <b className="purple">Web Developer</b> specalized in JS. Now learning everything about <b className="purple"> React, Node.js, MongoDb,</b> and others
+              In my <b className="purple">freetime</b>: Outdoor lover. Running 🏃‍♂️, Table tennis🏓, Frisbee🥏, Yoga 🧘‍♀️, are my main activities.
               <br />
               <br />
-              Interested in new technologies, like
-              <b className="purple"> TypeScript , Angular, Vue.js </b>
+              Interested in new technologies, like<b className="purple"> TypeScript , Angular, Vue.js </b>
               <br />
             </p>
           </Col>

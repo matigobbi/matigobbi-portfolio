@@ -26,7 +26,7 @@ function Footer() {
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/matigobbi/"
-                style={{ color: "white" }}
+                style={{ color: "black" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >

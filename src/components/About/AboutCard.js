@@ -7,27 +7,36 @@ function AboutCard() {
     <Card className="quote-card-view">
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Matias Gobbi </span>
+            Hi there, I am <span className="purple">Matías Gobbi </span>
             from <span className="purple"> Buenos Aires, Argentina</span>. But i´d say im from <span className="purple">the World.</span>
-            <br />I am a junior Developer who start coding since 1 year ago.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I am a junior Developer who start coding since<span className="purple"> 1 year ago</span> . 
+            <br />
+            <br />
+            I completed a bootcamp in <span className="purple">Ironhack</span> in May as student, and then, they decided to <span className="purple"> hire me </span>as teacher assistant.
+            That means i am going trougth the course several times, thats helps me to <span className="purple">go deeper </span>in every topic. 
+            <br />
+            <br />
+            Since i started to code, im improving these skills:
           </p>
           <ul>
             <li className="about-activity">
-              <ImArrowRight2 /> Play Computer Games
+              <ImArrowRight2 /> <span className="purple">Language acquisition</span>: Javascript is algo a lenguage.
             </li>
             <li className="about-activity">
-              <ImArrowRight2 /> Bike, bike, bike
+              <ImArrowRight2 /> <span className="purple">Innovative thinking</span>: In an industry that evolves quickly, i should be able to keep current with the latest changes and updates in technology.
             </li>
             <li className="about-activity">
-              <ImArrowRight2 /> Inline Skate
+              <ImArrowRight2 /> <span className="purple">Communication</span>: The ability to have positive and productive personal interactions
+            </li>
+            <li className="about-activity">
+              <ImArrowRight2 /> <span className="purple">Patience</span>: remain calm and focused even when i encounter a challenge.
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "You can build things easily. I'll give you a hint: Click on the wallpaper to create."{" "}
+            "You can build things easily. Click on the wallpaper to create."{" "}
           </p>
         </blockquote>
     </Card>
