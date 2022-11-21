@@ -20,7 +20,7 @@ function Home2() {
             <p className="home-about-body">
               From argentina based in Berlin ✨. Degree in <b className="purple">Tourism and Hotelery.</b>
               <br />
-              I decided to look for a new challenge, become a <b className="purple">Web Developer</b> specalized in JS. Now learning everything about <b className="purple"> React, Node.js, MongoDb,</b> and others.
+              I decided to look for a new challenge, become a <b className="purple">Web Developer</b> specialized in JS. Now learning everything about <b className="purple"> React, Node.js, MongoDb,</b> and others.
               <br />
               <br />
               Working for Ironhack Campus in Berlin, as <b className="purple"> Teacher Assistant </b> on Web Development Class. Helping about <b className="purple">15 students </b>
@@ -83,5 +83,5 @@ function Home2() {
       </Container>
     </Container>
   );
-}
+};
 export default Home2;
