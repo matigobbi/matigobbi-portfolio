@@ -7,8 +7,7 @@ function AboutCard() {
     <Card className="quote-card-view">
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi there, I am <span className="purple">Matías Gobbi </span>
-            from <span className="purple"> Buenos Aires, Argentina</span>. Now living in<span className="purple"> Berlin, Germany.</span>
+            I was born in <span className="purple"> Buenos Aires, Argentina</span>. Now living in<span className="purple"> Berlin, Germany.</span>
             <br />
             <br />
             I am a junior Developer who start coding since<span className="purple"> 1 year ago</span> . I worked in Hotels for 7 years, in diferent positions, and doing different tasks. 

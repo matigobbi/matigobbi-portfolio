@@ -378,10 +378,11 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
+  position: sticky;
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
-  background-color: rgb(10, 4, 22);
+  background-color: rgb(10, 4, 22); 
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
@@ -425,9 +426,8 @@ button:focus {
 /* --------- */
 .project-section {
   position: relative !important;
-  padding-top: 150px !important;
+  padding-top: 100px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
 }
 
 .project-card {
@@ -503,8 +503,8 @@ button:focus {
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color: #9120c5d7 !important;
+  border-color: #a420c5d7 !important;
 }
 .btn:focus {
   outline: none !important;
@@ -583,7 +583,6 @@ button:focus {
   position: relative !important;
   padding-top: 110px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
   color: white !important;
 }
 
