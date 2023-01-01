@@ -3,7 +3,10 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiHeroku,
+  SiPostman,
+  SiNetlify
 } from "react-icons/si";
+import { FaGithub } from "react-icons/fa";
 
 function Toolstack() {
   return (
@@ -13,6 +16,15 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostman />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNetlify />
       </Col>
     </Row>
   );

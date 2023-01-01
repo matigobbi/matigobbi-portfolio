@@ -6,7 +6,10 @@ import {
   DiNodejs,
   DiMongodb,
   DiGit,
+  DiBootstrap,
+  DiNpm
 } from "react-icons/di";
+import { SiTailwindcss, SiExpress } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -15,16 +18,28 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={1} className="tech-icons">
-        <DiNodejs />
+        <DiReact />
       </Col>
       <Col xs={4} md={1} className="tech-icons">
-        <DiReact />
+        <DiNodejs />
       </Col>
       <Col xs={4} md={1} className="tech-icons">
         <DiMongodb />
       </Col>
       <Col xs={4} md={1} className="tech-icons">
         <DiGit />
+      </Col>
+      <Col xs={4} md={1} className="tech-icons">
+        <SiExpress />
+      </Col>
+      <Col xs={4} md={1} className="tech-icons">
+        <DiBootstrap />
+      </Col>
+      <Col xs={4} md={1} className="tech-icons">
+        <SiTailwindcss />
+      </Col>
+      <Col xs={4} md={1} className="tech-icons">
+        <DiNpm />
       </Col>
     </Row>
   );

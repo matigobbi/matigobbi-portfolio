@@ -18,19 +18,21 @@ function Home2() {
              <span className="purple"> INTRODUCING </span> MYSELF 
             </h1>
             <p className="home-about-body">
-              From argentina based in Berlin ✨. Degree in <b className="purple">Tourism and Hotelery.</b>
-              <br />
-              I decided to look for a new challenge, become a <b className="purple">Web Developer</b> specialized in JS. Now learning everything about <b className="purple"> React, Node.js, MongoDb,</b> and others.
+              I´m from argentina based in Berlin ✨.I have a Degree in <b className="purple">Tourism and Hotelery.</b>
               <br />
               <br />
-              Working for Ironhack Campus in Berlin, as <b className="purple"> Teacher Assistant </b> on Web Development Class. Helping about <b className="purple">15 students </b>
-              who are doing a course of fulltime 10 weeks .
+              I decided to challenge myself, and become a <b className="purple">Web Developer</b> specialized in MERN applications<b className="purple"> [  MongoDB , Express ,  React ,  NodeJS ] </b>. 
+              <br />
+              <br />
+              Now my goals are learn new technologies, like<b className="purple"> TypeScript , Angular, Vue.js, Next.js</b> and <b className="purple"> Tailwind , or Sass</b> for styling. 
+              <br />
+              <br />
+              Now I´m working for Ironhack Campus in Berlin, as <b className="purple"> Teacher Assistant </b> on Web Development Class. Helping between <b className="purple">15 to 30 students </b>
+              who are doing an intensive fulltime 10weeks course.
               <br />
               <br />
               In my <b className="purple">freetime</b>: Outdoor lover. Running 🏃‍♂️, Table tennis🏓, Frisbee🥏, Yoga 🧘‍♀️, are my main activities.
               <br />
-              <br />
-              Interested in new technologies, like<b className="purple"> TypeScript , Angular, Vue.js </b>
               <br />
             </p>
           </Col>

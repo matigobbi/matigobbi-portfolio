@@ -228,6 +228,12 @@ button:focus {
   padding-top: 80px !important;
 }
 
+@media (min-width: 767px) {
+  .home-section {
+    height: 95vh;
+  }
+}
+
 .home-section {
   position: relative;
   z-index: -1;
@@ -520,7 +526,6 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
   color: white !important;
 }
 
