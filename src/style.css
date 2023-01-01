@@ -228,11 +228,7 @@ button:focus {
   padding-top: 80px !important;
 }
 
-@media (min-width: 767px) {
-  .home-section {
-    height: 95vh;
-  }
-}
+
 
 .home-section {
   position: relative;
@@ -257,7 +253,7 @@ button:focus {
 
 .heading-name {
   font-size: 2.5em !important;
-  padding-left: 45px !important;
+  padding-left: 49px !important;
 }
 
 .main-name {
@@ -382,6 +378,9 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
+  background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
   background-color: rgb(10, 4, 22);
   bottom: 0 !important;
   padding-top: 10px !important;
