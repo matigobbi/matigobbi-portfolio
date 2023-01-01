@@ -22,12 +22,6 @@ function About() {
             </h1>
             <Aboutcard />
           </Col>
-          <Col
-            md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
-            className="about-img"
-          >
-          </Col>
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>

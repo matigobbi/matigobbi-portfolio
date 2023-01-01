@@ -49,8 +49,10 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)", paddingTop:"50px"}}>
-            "You can build things easily. Click on the wallpaper to create ;) ."{" "}
+          <p style={{ color: "rgb(155 126 172)", paddingTop:"10px",  textAlign: "right"}}>
+            "You can build things easily. 
+            <br />
+            Click on the wallpaper to create 🧐 ."{" "}
           </p>
         </blockquote>
     </Card>
