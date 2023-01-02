@@ -207,15 +207,6 @@ button:focus {
 /* --------- */
 /* Home section */
 /* --------- */
-.wave {
-  animation-name: wave-animation; /* Refers to the name of your @keyframes element below */
-  animation-duration: 2.1s; /* Change to speed up or slow down */
-  animation-iteration-count: infinite; /* Never stop waving :) */
-  transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
-  display: inline-block;
-}
-
-
 #tsparticles {
   position: fixed !important;
   background-repeat: no-repeat !important;
@@ -257,17 +248,17 @@ button:focus {
 }
 
 .main-name {
-  color: #3259b3;
+  color: #8358ce;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #1e4bb3 !important;
+  color: #8358ce !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #2751b1 !important;
+  color: #8358ce !important;
 }
 
 @media (max-width: 767px) {
