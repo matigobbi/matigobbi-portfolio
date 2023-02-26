@@ -24,7 +24,7 @@ function Projects() {
             <ProjectCard
               imgPath={fahrrad}
               title="Fahrrad Market"
-              description="Application to be able to publish and search for bikes. my first application using react, Mongo DB, and Node.js. It has: User log in, My profile, Like buttons, filters, search bar, etc."
+              description="Application to be able to publish and search for bikes. My first application using react, Mongo DB, and Node.js. It has: User log in, My profile, Like buttons, filters, search bar, etc."
               ghLink="https://github.com/matigobbi/fahrradmarket"
               demoLink="https://fahrradmarket.herokuapp.com/"
             />
